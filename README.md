@@ -1,5 +1,9 @@
 # Serverless + Nodejs + DynamoDB API
 
+* Author: Nicholas Lee
+* Credits: Serverless Community
+* Please feel free to visit my portfolio at [nicholaskhang.github.io](https://nicholaskhang.github.io/)
+
 ## Prerequisites
 
 -   AWS account (Lambda & DynamoDB)
