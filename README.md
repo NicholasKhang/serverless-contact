@@ -102,6 +102,8 @@ Create contact.
 }
 ```
 
+---
+
 ### List
 
 List all contacts.
@@ -129,7 +131,7 @@ List all contacts.
 
 ```json
 {
-  "statusCode": 200,
+	"statusCode": 200,
 	"data": {
 		"contacts": [
 			{
@@ -146,6 +148,8 @@ List all contacts.
 	}
 }
 ```
+
+---
 
 ### Get
 
